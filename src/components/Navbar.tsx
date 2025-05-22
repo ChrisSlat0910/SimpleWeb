@@ -19,7 +19,7 @@ async function Navbar() {
                 href="/"
                 className="text-xl font-bold font-mono tracking-wider"
               >
-                🌱 Plantventory
+                Rumah Tanaman 🌱
               </Link>
             </div>
   
